@@ -1,0 +1,13 @@
+C:\Users\aaron\OneDrive\Documents\Code\UserInputLoops\UserInputLoops\UserInputLoops\bin\Debug\netcoreapp3.1\UserInputLoops.exe
+C:\Users\aaron\OneDrive\Documents\Code\UserInputLoops\UserInputLoops\UserInputLoops\bin\Debug\netcoreapp3.1\UserInputLoops.deps.json
+C:\Users\aaron\OneDrive\Documents\Code\UserInputLoops\UserInputLoops\UserInputLoops\bin\Debug\netcoreapp3.1\UserInputLoops.runtimeconfig.json
+C:\Users\aaron\OneDrive\Documents\Code\UserInputLoops\UserInputLoops\UserInputLoops\bin\Debug\netcoreapp3.1\UserInputLoops.runtimeconfig.dev.json
+C:\Users\aaron\OneDrive\Documents\Code\UserInputLoops\UserInputLoops\UserInputLoops\bin\Debug\netcoreapp3.1\UserInputLoops.dll
+C:\Users\aaron\OneDrive\Documents\Code\UserInputLoops\UserInputLoops\UserInputLoops\bin\Debug\netcoreapp3.1\UserInputLoops.pdb
+C:\Users\aaron\OneDrive\Documents\Code\UserInputLoops\UserInputLoops\UserInputLoops\obj\Debug\netcoreapp3.1\UserInputLoops.csprojAssemblyReference.cache
+C:\Users\aaron\OneDrive\Documents\Code\UserInputLoops\UserInputLoops\UserInputLoops\obj\Debug\netcoreapp3.1\UserInputLoops.AssemblyInfoInputs.cache
+C:\Users\aaron\OneDrive\Documents\Code\UserInputLoops\UserInputLoops\UserInputLoops\obj\Debug\netcoreapp3.1\UserInputLoops.AssemblyInfo.cs
+C:\Users\aaron\OneDrive\Documents\Code\UserInputLoops\UserInputLoops\UserInputLoops\obj\Debug\netcoreapp3.1\UserInputLoops.csproj.CoreCompileInputs.cache
+C:\Users\aaron\OneDrive\Documents\Code\UserInputLoops\UserInputLoops\UserInputLoops\obj\Debug\netcoreapp3.1\UserInputLoops.dll
+C:\Users\aaron\OneDrive\Documents\Code\UserInputLoops\UserInputLoops\UserInputLoops\obj\Debug\netcoreapp3.1\UserInputLoops.pdb
+C:\Users\aaron\OneDrive\Documents\Code\UserInputLoops\UserInputLoops\UserInputLoops\obj\Debug\netcoreapp3.1\UserInputLoops.genruntimeconfig.cache
